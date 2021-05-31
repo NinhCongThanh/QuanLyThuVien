@@ -1,0 +1,15 @@
+E:\ThucTap\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DAO.dll.config
+E:\ThucTap\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DAO.dll
+E:\ThucTap\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DAO.pdb
+E:\ThucTap\Library_Management-master\QLTV_DAO\bin\Debug\EntityFramework.dll
+E:\ThucTap\Library_Management-master\QLTV_DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\ThucTap\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DTO.dll
+E:\ThucTap\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DTO.pdb
+E:\ThucTap\Library_Management-master\QLTV_DAO\bin\Debug\QLTV_DTO.dll.config
+E:\ThucTap\Library_Management-master\QLTV_DAO\bin\Debug\EntityFramework.xml
+E:\ThucTap\Library_Management-master\QLTV_DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\ThucTap\Library_Management-master\QLTV_DAO\obj\Debug\QLTV_DAO.csprojAssemblyReference.cache
+E:\ThucTap\Library_Management-master\QLTV_DAO\obj\Debug\QLTV_DAO.csproj.CoreCompileInputs.cache
+E:\ThucTap\Library_Management-master\QLTV_DAO\obj\Debug\QLTV_DAO.csproj.CopyComplete
+E:\ThucTap\Library_Management-master\QLTV_DAO\obj\Debug\QLTV_DAO.dll
+E:\ThucTap\Library_Management-master\QLTV_DAO\obj\Debug\QLTV_DAO.pdb

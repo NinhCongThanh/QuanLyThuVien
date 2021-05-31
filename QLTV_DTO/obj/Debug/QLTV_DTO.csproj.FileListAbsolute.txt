@@ -1,0 +1,12 @@
+E:\ThucTap\Library_Management-master\QLTV_DTO\bin\Debug\QLTV_DTO.dll.config
+E:\ThucTap\Library_Management-master\QLTV_DTO\bin\Debug\QLTV_DTO.dll
+E:\ThucTap\Library_Management-master\QLTV_DTO\bin\Debug\QLTV_DTO.pdb
+E:\ThucTap\Library_Management-master\QLTV_DTO\bin\Debug\EntityFramework.dll
+E:\ThucTap\Library_Management-master\QLTV_DTO\bin\Debug\EntityFramework.SqlServer.dll
+E:\ThucTap\Library_Management-master\QLTV_DTO\bin\Debug\EntityFramework.xml
+E:\ThucTap\Library_Management-master\QLTV_DTO\bin\Debug\EntityFramework.SqlServer.xml
+E:\ThucTap\Library_Management-master\QLTV_DTO\obj\Debug\QLTV_DTO.csprojAssemblyReference.cache
+E:\ThucTap\Library_Management-master\QLTV_DTO\obj\Debug\QLTV_DTO.csproj.CoreCompileInputs.cache
+E:\ThucTap\Library_Management-master\QLTV_DTO\obj\Debug\QLTV_DTO.csproj.CopyComplete
+E:\ThucTap\Library_Management-master\QLTV_DTO\obj\Debug\QLTV_DTO.dll
+E:\ThucTap\Library_Management-master\QLTV_DTO\obj\Debug\QLTV_DTO.pdb
